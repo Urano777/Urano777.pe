@@ -17,6 +17,7 @@ body{
 }
 .info{
 	background-color: hsl(0,0%,0%);
+	width: 100%;
 	color: hsl(0,100%,100%);
 	padding: 20px;
 	text-align: center;
