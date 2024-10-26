@@ -10,6 +10,12 @@ body{
 	background-attachment: fixed;
 	background-size: cover;
 }
+.contenedor{
+	background-color: hsl(0,100%,50%);
+	width: 80%;
+	max-width: 1140px;
+	margin: auto;
+}
 .redes a img{
 	width: 40px;
 	display: inline-block;
